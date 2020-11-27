@@ -1,2 +1,2 @@
 # EZSDL
-novic try to make an eazy SDL lib cpp
+novic try to make an easy SDL lib cpp
